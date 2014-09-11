@@ -7,7 +7,7 @@ type: stretch
 
 ## Stretch Labs: Object Oriented Programming
 
-<img src="http://www.foundshit.com/images/sumo-splits-stretch-03.jpg">
+<img src="http://1funny.com/wp-content/uploads/2011/10/cat-stretch.jpg">
 
 + [RubyMonk Color Contrast](https://rubymonk.com/learning/books/1-ruby-primer/problems/152-color-contrast)
 + [OO Banking](https://github.com/flatiron-school-curriculum/oo-banking)
