@@ -7,7 +7,7 @@ type: stretch
 
 ## Stretch Lab
 
-![img](http://upload.wikimedia.org/wikipedia/commons/7/74/Beijing_bouddhist_monk_2009_IMG_1486.JPG)
+![img](http://i.telegraph.co.uk/multimedia/archive/02623/Dalai-Lama_2623353b.jpg)
 
 ###[RubyMonk Color Contrast](https://rubymonk.com/learning/books/1-ruby-primer/problems/152-color-contrast)
 
