@@ -5,9 +5,9 @@ level: 3
 type: stretch
 ---
 
-### [RubyMonk Color Contrast](https://rubymonk.com/learning/books/1-ruby-primer/problems/152-color-contrast)
+### Click over to [RubyMonk's Color Contrast Problem](https://rubymonk.com/learning/books/1-ruby-primer/problems/152-color-contrast)
 
-![img](http://i.telegraph.co.uk/multimedia/archive/02623/Dalai-Lama_2623353b.jpg)
+![monk](https://after-school-assets.s3.amazonaws.com/monk.jpeg)
 
 
 
