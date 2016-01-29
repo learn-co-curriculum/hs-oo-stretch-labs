@@ -7,4 +7,4 @@
 
 
 
-<a href='https://learn.co/lessons/hs-oo-stretch-labs' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-oo-stretch-labs' title='Click On Over To...'>Click On Over To...</a> on Learn.co and start learning to code for free.</p>
